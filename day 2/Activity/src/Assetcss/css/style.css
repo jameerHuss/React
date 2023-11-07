@@ -1,0 +1,73 @@
+.hi
+{
+    background-color: aqua;
+    border-radius: 4px;
+    text-align: center;
+    width: auto;
+}
+.oii
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+   
+   
+}
+.opop
+{
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
+.pops
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.lp
+{
+    background-color:violet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lpm
+{
+    background-color:violet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lpn
+{
+    background-color:violet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lpo
+{
+    background-color:violet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lpp
+{
+    background-color:violet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body
+{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   background-color: aquamarine;
+}
